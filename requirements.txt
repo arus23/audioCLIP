@@ -1,0 +1,13 @@
+librosa==0.8.1
+numpy
+pandas
+pytorch-ignite
+scikit-learn
+scipy
+termcolor
+torch
+torchvision
+tqdm
+visdom
+ftfy
+regex
