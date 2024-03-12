@@ -11,3 +11,7 @@ tqdm
 visdom
 ftfy
 regex
+ipython
+pyaudio
+simplejpeg
+matplotlib
